@@ -1,0 +1,32 @@
+{
+  "name": "battleship",
+  "version": "1.0.0",
+  "description": "JavaScript Battleship Unit Testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/annelisepre/battleshipunittesting.git"
+  },
+  "keywords": [
+    "battleship",
+    "javascript",
+    "unitTesting",
+    "unit",
+    "testing"
+  ],
+  "author": "Annelise <ajunepre@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/annelisepre/battleshipunittesting/issues"
+  },
+  "homepage": "https://github.com/annelisepre/battleshipunittesting#readme",
+  "dependencies": {
+    "node": "^11.9.0"
+  },
+  "devDependencies": {
+    "chai": "^4.2.0"
+  }
+}
